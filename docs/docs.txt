@@ -1,0 +1,8 @@
+# list [jdk] versions:
+sdk list java
+
+# installing an sdk (use id, not version):
+sdk use java 17.0.5-tem
+
+# using an sdk:
+sdk use java 17.0.5-tem
